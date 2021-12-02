@@ -1,5 +1,5 @@
 ---
-title: wcl
+title: nand7400
 layout: home
 permalink: /
 ---
